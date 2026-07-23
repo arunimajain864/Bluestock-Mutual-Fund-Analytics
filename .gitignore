@@ -1,0 +1,111 @@
+# ===========================
+# Python
+# ===========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# ===========================
+# SQLite Database
+# ===========================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# ===========================
+# Environment Variables
+# ===========================
+
+.env
+
+# ===========================
+# VS Code
+# ===========================
+
+.vscode/
+
+# ===========================
+# PyCharm
+# ===========================
+
+.idea/
+
+# ===========================
+# Power BI Temporary Files
+# ===========================
+
+*.tmp
+*.bak
+
+# ===========================
+# Operating System Files
+# ===========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Temporary CSVs
+# ===========================
+
+*.temp.csv
+
+# ===========================
+# Python Cache
+# ===========================
+
+*.pyo
+*.pyd
+
+# ===========================
+# Test Cache
+# ===========================
+
+.pytest_cache/
+
+# ===========================
+# Coverage Reports
+# ===========================
+
+htmlcov/
+.coverage
+.coverage.*
+
+# ===========================
+# Streamlit Cache
+# ===========================
+
+.streamlit/secrets.toml
+
+# ===========================
+# Local History
+# ===========================
+
+.history/
+
+# ===========================
+# Miscellaneous
+# ===========================
+
+*.swp
+*.swo
